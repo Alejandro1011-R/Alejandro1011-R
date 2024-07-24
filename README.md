@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/alejandro-ramírez-trueba-902b60310" target="_blank">
+  <a href="http://www.linkedin.com/in/alejandro-ramírez-trueba-902b60310" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="http://discordapp.com/users/1031541452322377748" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="t.me/Ale_TheCreation" target="_blank">
+  <a href="http://t.me/Ale_TheCreation" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
