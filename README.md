@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Alejandro Ramírez Trueba from Cuba.<br><br>- 🎓 I'm a third-year Computer Science student at the University of Havana.<br>- 🔭 I’m currently working on enhancing my skills in software development and data analysis.<br>- 📚 I'm currently learning advanced algorithms, IA and machine learning.<br>- ⚡ In my free time, I enjoy exploring new technologies, contributing to open-source projects, and solve competitive programming problems.<br><br>Feel free to connect with me or check out my projects!</p>
+<p align="left">I'm Alejandro Ramírez Trueba from Cuba.<br><br>- 🎓 I'm a fourth-year Computer Science student at the University of Havana.<br>- 🔭 I’m currently working on enhancing my skills in software development and data analysis.<br>- 📚 I'm currently learning advanced algorithms, IA and machine learning.<br>- ⚡ In my free time, I enjoy exploring new technologies, contributing to open-source projects, and solve competitive programming problems.<br><br>Feel free to connect with me or check out my projects!</p>
 
 ###
 
